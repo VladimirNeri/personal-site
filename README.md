@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # [mldangelo.com](http://mldangelo.com) and simplified [mldangelo.github.io/personal-site](https://mldangelo.github.io/personal-site/)
 
 My personal website. Easily modifiable, and built using modern javascript with Node.js, React, Express, React-Router, Hot Module Reloading, Webpack and many other technologies.
@@ -86,3 +87,6 @@ Please feel free to reach out to me by filing an issue or at help@mldangelo.com 
 ## License
 
 [MIT](https://github.com/mldangelo/personal-site/blob/master/LICENSE)
+=======
+# personal-site
+>>>>>>> d0d14a99dfc21d29d3bf9eb92086173f0b380b81
