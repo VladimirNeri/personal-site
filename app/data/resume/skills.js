@@ -32,7 +32,7 @@ export const categories = [
 export const skills = [
   {
     title: 'Javascript',
-    compentency: 3,
+    compentency: 4,
     category: ['Web Development', 'Languages', 'Javascript'],
   },
   {
@@ -42,13 +42,8 @@ export const skills = [
   },
   {
     title: 'React.JS',
-    compentency: 3,
+    compentency: 4,
     category: ['Web Development', 'Frameworks', 'Javascript'],
-  },
-  {
-    title: 'Bash',
-    compentency: 3,
-    category: ['Tools', 'Languages'],
   },
   {
     title: 'Heroku',
@@ -82,12 +77,12 @@ export const skills = [
   },
   {
     title: 'HTML',
-    compentency: 3,
+    compentency: 5,
     category: ['Web Development', 'Languages'],
   },
   {
     title: 'CSS',
-    compentency: 3,
+    compentency: 5,
     category: ['Web Development', 'Languages'],
   },
   {
@@ -98,7 +93,7 @@ export const skills = [
   {
     title: 'JQuery',
     compentency: 3,
-    category: ['Web Development', 'Javascript'],
+    category: ['Web Development', 'Javascript', 'Languages'],
   },
   {
     title: 'Photoshop',
@@ -118,11 +113,16 @@ export const skills = [
   {
     title: 'Wordpress',
     compentency: 4,
-    category: ['Design', 'Web Development', 'Frameworks'],
+    category: ['Design', 'Web Development'],
   },
   {
     title: 'Handlebars',
     compentency: 4,
-    category: ['Web Development', 'Javascript'],
+    category: ['Web Development', 'Frameworks'],
+  },
+  {
+    title: 'Shopify',
+    compentency: 4,
+    category: ['Web Development', 'Frameworks'],
   },
 ];

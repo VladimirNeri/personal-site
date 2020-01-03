@@ -11,9 +11,9 @@ const degrees = [
     year: 2019,
   },{
     school: 'Boston College',
-    degree: 'B.A. in Communication',
+    degree: 'B.A. in Commmunication',
     link: 'https://bc.edu',
-    year: 1995,
+    year: 1994,
   },
 ];
 
