@@ -1,42 +1,29 @@
 // TODO Add a couple lines about each project
 const data = [
   {
-    title: 'Nearest Dollar',
-    subtitle: '2015 BVP Hackathon',
-    link: '/projects/nearestdollar/',
-    image: '/images/projects/nearestdollar.jpg',
-    date: '2015-11-20',
-    desc: 'Built for a social impact hackathon. '
-      + 'NearestDollar connected to your bank accounts, credit cards, '
-      + 'or debit cards and rounded up your purchases to donate the balance to '
-      + 'the charity of your choice.',
+    title: 'TravelBud',
+    subtitle: 'One Stop Shop for Travelers',
+    link: 'https://vladimirneri.github.io/TheTravelBud/',
+    image: '/images/projects/travelbud.jpg',
+    date: '2019-05-22',
+    desc: 'A one stop shop for all your travel needs. '
+      + 'This app contains a Flight Tracker, Currency Converter, Weather Forecast, and Packing List.',
   }, {
-    title: 'Harvest',
-    subtitle: 'Won 3rd. place in 2015 Techcrunch Disrupt SF Hackathon',
-    link: 'https://devpost.com/software/harvest',
-    image: '/images/projects/harvest.jpg',
-    date: '2015-09-20',
-    desc: 'Won ~ $7000 in prizes for an advanced, low cost monitoring solution '
-      + 'for crops. Harvest was designed to catch irrigation leaks, overwatering, '
-      + 'and nutrient deficiencies at an affordable price for the developing world.',
+    title: 'My Kitchen',
+    subtitle: 'An Inventory Management System for Caterers',
+    link: 'https://serene-wave-45223.herokuapp.com/',
+    image: '/images/projects/mykitchen.jpg',
+    date: '2019-07-18',
+    desc: 'The MyKitchen app is a basic inventory management system for catering companies and resturants.'
+      + ' It can be used by the client to keep track of stock for multiple locations.',
   }, {
-    title: 'Space Potato',
-    subtitle: 'A kickstarter funded potato powered weather balloon.',
-    link: 'http://www.spacepotato.org',
-    image: '/images/projects/spacepotato.jpg',
-    date: '2015-06-28',
-    desc: 'Launched a potato battery powered weather balloon with two cameras '
-      + 'and gps transponder. Resulting photos were published in a coffee table book. '
-      + 'You can email me for a copy.',
-  }, {
-    title: 'Cat Detector',
-    subtitle: 'A convolutional neural network to classify cats! (and dogs)',
-    link: '/project/catdetector/',
-    image: '/images/projects/catdetector.jpg',
-    date: '2015-05-15',
-    desc: 'Trained a convolutional neural network to classify between ~ 80 cats breeds. '
-     + 'Over 60,000 cats were classified before server bills made the project too expensive '
-     + 'to continue hosting.',
+    title: 'ScanMatch',
+    subtitle: 'an Audit API that matches data sets from two sources',
+    link: 'https://intense-stream-50784.herokuapp.com/',
+    image: '/images/projects/scanmatch.jpg',
+    date: '2019-08-26',
+    desc: 'ScanMatch is a full stack web application that allows users to audit their digital database '
+      + 'against their physical inventory. The application is designed and prepared for SoftMouse Inc.',
   },
 ];
 
