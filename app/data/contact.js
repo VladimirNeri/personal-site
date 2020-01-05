@@ -13,16 +13,6 @@ const data = [
     icon: faGithub,
   },
   {
-    link: 'https://facebook.com/vlad.neri',
-    label: 'Facebook',
-    icon: faFacebook,
-  },
-  {
-    link: 'https://www.instagram.com/vladimirneri/',
-    label: 'Instagram',
-    icon: faInstagram,
-  },
-  {
     link: 'https://www.linkedin.com/in/vladimirneri',
     label: 'LinkedIn',
     icon: faLinkedinIn,
