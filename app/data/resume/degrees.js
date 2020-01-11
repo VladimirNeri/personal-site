@@ -1,17 +1,17 @@
 const degrees = [
   {
+    school: 'General Assembly',
+    degree: 'Python Programming',
+    link: 'https://generalassemb.ly',
+    year: 2020,
+  },{
     school: 'UCLA',
     degree: 'Web Development Immersive',
     link: 'https://ucla.edu',
     year: 2019,
   }, {
-    school: 'General Assembly',
-    degree: 'Python Programming',
-    link: 'https://generalassemb.ly',
-    year: 2019,
-  },{
     school: 'Boston College',
-    degree: 'B.A. in Commmunication',
+    degree: 'B.A. in Economics',
     link: 'https://bc.edu',
     year: 1994,
   },

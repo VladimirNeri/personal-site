@@ -20,10 +20,9 @@ const Nav = () => (
 
     <section className="blurb">
       <h2>About</h2>
-      <p>Hi, I&apos;m Vlad. I’m a Full Stack Web Developer with a background in commercial photography, 
-        and life-long dedication to learning.   Effective at combining creativity and problem solving to develop user-friendly applications. 
-        Known among staff for strong wit and attention to detail no matter the complexity of the project.   
-
+      <p>Hi, I&apos;m Vlad Neri. I’m a Front End Developer based in Santa Monica, CA.  I recently graduated from UCLA Web Development Bootcamp and have a background in 
+      real estate finance and management.  Before my journey in web development I held corporate positions at City National Bank and Keller Williams Realty.  
+      I am also an avid freelance photographer.  
       </p>
       <ul className="actions">
         <li>

@@ -18,6 +18,11 @@ const data = [
     icon: faLinkedinIn,
   },
   {
+    link: 'https://www.instagram.com/iamvladneri/',
+    label: 'Instagram',
+    icon: faInstagram,
+  },
+  {
     link: 'mailto:info@vladimirneri.com',
     label: 'Email',
     icon: faEnvelope,
