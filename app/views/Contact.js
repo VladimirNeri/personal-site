@@ -17,6 +17,14 @@ const validateText = (text) => {
 
 const messages = [
   'info',
+  'hello',
+  'wassup',
+  'hola',
+  'bonjour',
+  'hallo',
+  'hej',
+  'kamusta',
+  'yeoboseyo',
 ];
 
 const useInterval = (callback, delay) => {
@@ -79,7 +87,7 @@ const Contact = () => {
             onMouseEnter={() => setIsActive(false)}
             onMouseLeave={() => (idx < messages.length) && setIsActive(true)}
           >
-            <a href={validateText(message) ? `mailto:${message}@vladimirneri.com` : ''}>
+            <a href={validateText(message) ? `mailto:info@vladimirneri.com` : ''}>
               <span>{message}</span>
               <span>@vladimirneri.com</span>
             </a>
