@@ -14,14 +14,14 @@ const Nav = () => (
       </Link>
       <header>
         <h2>Vladimir Neri</h2>
-        <p><a href="info@vladimirneri.com">info@vladimirneri.com</a></p>
+        <p><a href="mailto:info@vladimirneri.com">info@vladimirneri.com</a></p>
       </header>
     </section>
 
     <section className="blurb">
       <h2>About</h2>
-      <p>Hi, I&apos;m Vlad Neri. I’m a Front End Developer based in Santa Monica, CA.  I recently graduated from UCLA Web Development Bootcamp and have a background in 
-      real estate finance and management.  Before my journey in web development I held corporate positions at City National Bank and Keller Williams Realty.  
+      <p>Hi, I&apos;m Vlad Neri. I’m a Web Developer from Santa Monica, CA.  I recently graduated from UCLA Web Development Bootcamp and have a background in 
+      corporate banking and management.  Before my journey in web development I held positions at City National Bank and Keller Williams Realty.  
       I am also an avid freelance photographer.  
       </p>
       <ul className="actions">
