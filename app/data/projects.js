@@ -24,7 +24,7 @@ const data = [
     date: '2019-08-26',
     desc: 'ScanMatch is a full stack web application that allows users to audit their digital database '
       + 'against their physical inventory. The application is designed and prepared for SoftMouse Inc.',
-  },
+  }, 
 ];
-
+ 
 export default data;
