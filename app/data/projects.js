@@ -49,6 +49,14 @@ const data = [
     desc: 'Mongo Scraper is a web app that lets users view and leave comments on the latest news. '
       + 'Mongoose and Cheerio are used to scrape news from another site.',
   }, {
+    title: 'Hamberders and Covfefe',
+    subtitle: 'a MySQL logger app',
+    link: 'https://pure-depths-86569.herokuapp.com/',
+    image: '/images/projects/mysql.jpg',
+    date: '2019-07-6',
+    desc: 'a fun burger logger built with Sequelize, Node, Express, and Handlebars. '
+      + 'Node and Sequelize are used to query and route data, while handlebars generate the HTML',
+  }, {
     title: 'The Ultimate Tennis Trivia Game',
     subtitle: 'a Trivia Game that uses Javascript for the logic and JQuery to manipulate HTML',
     link: 'https://vladimirneri.github.io/TriviaGame/',
@@ -56,7 +64,15 @@ const data = [
     date: '2019-04-25',
     desc: 'A trivia game that shows only one question until the player answers it or their time runs out. '
       + 'Technologies used include Javascript, JQuery, HTML, CSS, and Bootstrap.',
-  }, 
+  }, {
+    title: 'Crystals Collector',
+    subtitle: 'a fun interactive game for web browsers',
+    link: 'https://vladimirneri.github.io/unit-4-game/',
+    image: '/images/projects/crystals.jpg',
+    date: '2019-04-7',
+    desc: 'A fun interactive game for web brosers.  The app dynamically updates the HTML page with JQuery library. '
+      + 'Technologies used include Javascript, JQuery, HTML, CSS, and Bootstrap.',
+  },
 ];
  
 export default data;
