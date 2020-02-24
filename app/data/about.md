@@ -1,9 +1,9 @@
 
 #### Intro
 
-I arrived in Santa Monica by way of Manila, New York and Boston. My interest in web development began last year when I started to prepare for coding bootcamp at UCLA.  Prior to this I was already interested in the use of technology primarily in photography creating high-end digital and analog images for clients in Los Angeles and beyond.  
+I arrived in Santa Monica by way of Manila, New York and Boston. My interest in web development began last year when I started to prepare for coding bootcamp at UCLA.  Prior to this I was interested in the use of technology primarily in photography creating high-end digital and analog images for clients in Los Angeles and beyond.  Some of my clients include Taschen, teNeuse, Next, Wilhelmina, and LA Models.  I'm still an agency test photographer though the money isn't as good as it used to be.  
 <br><br>
-I got into Web Development to expand my expertise so I enrolled in a Web Development Immersive program at UCLA.  At bootcamp, I had the opportunity to be mentored by senior developers and solidify my understanding of many best-practices and important programming concepts.
+Attracted by the use of creativity and technology, I entered the world of tech to expand my expertise. I enrolled in the Full Stack Web Development Coding Bootcamp at UCLA.  At bootcamp, I had the opportunity to be mentored by senior developers and solidify my understanding of many best-practices and important programming concepts.
 <br><br>
 #### Some tools I've used
 
