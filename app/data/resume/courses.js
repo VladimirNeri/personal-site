@@ -18,6 +18,7 @@ const courses = [
   },
   {
     title: 'Modern React with Redux',
+    univerity: 'Udemy.com',
   },
   {
     title: 'NodeJs the Complete Guide',  
