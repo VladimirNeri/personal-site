@@ -9,6 +9,10 @@ const courses = [
     univerity: 'Udemy.com',
   },
   {
+    title: 'Build Responsive Real World Websites HTML5 and CSS3',  
+    univerity: 'Udemy.com',
+  },
+  {
     title: 'Advanced CSS and Sass: Flexbox, Grid, Animations and More!',
     univerity: 'Udemy.com',
   },
@@ -17,6 +21,10 @@ const courses = [
   },
   {
     title: 'NodeJs the Complete Guide',  
+    univerity: 'Udemy.com',
+  },
+  {
+    title: 'MongoDb the Complete Developers Guide',  
     univerity: 'Udemy.com',
   },
 ];
