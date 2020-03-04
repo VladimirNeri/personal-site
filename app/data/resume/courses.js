@@ -1,9 +1,23 @@
 const courses = [
   {
     title: 'Full Stack Web Development Coding Bootcamp',
-    number: ' UCLAWES20190205FSF',
     link: 'http://t.cred.ly/l/357007b5-c22e-47bb-941b-1556021d72f0',
     univerity: 'UCLA Extension',
+  },
+  {
+    title: 'The Complete Javascript Course',
+    univerity: 'Udemy.com',
+  },
+  {
+    title: 'Advanced CSS and Sass: Flexbox, Grid, Animations and More!',
+    univerity: 'Udemy.com',
+  },
+  {
+    title: 'Modern React with Redux',
+  },
+  {
+    title: 'NodeJs the Complete Guide',  
+    univerity: 'Udemy.com',
   },
 ];
 
