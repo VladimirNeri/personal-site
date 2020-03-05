@@ -6,6 +6,7 @@ const courses = [
   },
   {
     title: 'The Complete Javascript Course',
+    link: 'https://www.udemy.com/certificate/UC-104fad21-b75a-4a38-a61d-d1f4b48208b9/',
     univerity: 'Udemy.com',
   },
   {
