@@ -3,12 +3,12 @@
  "icons": [
   {
    "src": "/images/favicon/favicon-16x16.png",
-   "sizes": "36x36",
+   "sizes": "16x16",
    "type": "image/png"
   },
   {
    "src": "/images/favicon/favicon-32x32.png",
-   "sizes": "48x48",
+   "sizes": "32x32",
    "type": "image/png"
   },
   {
@@ -18,7 +18,7 @@
    },
   {
    "src": "/images/favicon/apple-touch-icon.png",
-   "sizes": "72x72",
+   "sizes": "180x180",
    "type": "image/png"
   },
   {
