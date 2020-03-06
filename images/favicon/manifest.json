@@ -1,6 +1,6 @@
 {
  "name": "iamvladneri.com",
- "display": "browser",
+ "display": "standalone",
  "start_url": "https://iamvladneri.com/",
  "icons": [
   {
