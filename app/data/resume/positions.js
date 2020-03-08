@@ -13,7 +13,6 @@ const positions = [
   }, {
     company: 'Vladimir Neri Studios',
     position: 'Photographer',
-    link: 'https://www.vladimirneri.com/',
     daterange: 'September 2009 - Present',
     points: [
       'Own and operate professional photography business, acquiring and serving new clients regularly to maintain profitability.',
