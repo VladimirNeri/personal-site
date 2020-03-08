@@ -113,7 +113,7 @@ export const skills = [
   {
     title: 'Wordpress',
     compentency: 3,
-    category: ['Design', 'Web Development'],
+    category: ['Frameworks', 'Web Development'],
   },
   {
     title: 'Handlebars',
