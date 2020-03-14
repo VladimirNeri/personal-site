@@ -1,7 +1,7 @@
 {
  "name": "iamvladneri.com",
  "display": "standalone",
- "start_url": "https://iamvladneri.com/",
+ "start_url": "/",
  "icons": [
   {
    "src": "/images/favicon/favicon-16x16.png",

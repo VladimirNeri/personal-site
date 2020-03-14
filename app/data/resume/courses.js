@@ -22,11 +22,7 @@ const courses = [
     univerity: 'Udemy.com',
   },
   {
-    title: 'NodeJs the Complete Guide',  
-    univerity: 'Udemy.com',
-  },
-  {
-    title: 'MongoDb the Complete Developers Guide',  
+    title: 'NodeJs, Express, MongoDB and More',  
     univerity: 'Udemy.com',
   },
 ];
