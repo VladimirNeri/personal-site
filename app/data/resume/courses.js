@@ -15,6 +15,7 @@ const courses = [
   },
   {
     title: 'Advanced CSS and Sass: Flexbox, Grid, Animations and More!',
+    link: 'https://www.udemy.com/certificate/UC-dfbbfb52-fb80-479c-9c2e-7639fe7cc21e/',
     univerity: 'Udemy.com',
   },
   {
