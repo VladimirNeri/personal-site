@@ -10,7 +10,7 @@ const courses = [
     univerity: 'Udemy.com',
   },
   {
-    title: 'Build Responsive Real World Websites HTML5 and CSS3',  
+    title: 'Algorithms and Data Structures',  
     univerity: 'Udemy.com',
   },
   {
@@ -20,6 +20,7 @@ const courses = [
   },
   {
     title: 'Modern React with Redux',
+    link: 'https://www.udemy.com/certificate/UC-36a495c9-ff30-454e-9930-1de6cde89bd0/',
     univerity: 'Udemy.com',
   },
   {
