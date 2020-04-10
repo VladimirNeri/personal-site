@@ -12,11 +12,8 @@ export const categories = [
     name: 'Frameworks',
     color: '#64cb7b',
   }, {
-    name: 'Javascript',
-    color: '#d75858',
-  }, {
     name: 'Languages',
-    color: '#6968b3',
+    color: '#d75858',
   },  {
     name: 'Tools',
     color: '#40494e',
@@ -33,17 +30,17 @@ export const skills = [
   {
     title: 'Javascript',
     compentency: 3,
-    category: ['Web Development', 'Languages', 'Javascript'],
+    category: ['Web Development', 'Languages'],
   },
   {
     title: 'Node.JS',
     compentency: 3,
-    category: ['Web Development', 'Frameworks', 'Javascript'],
+    category: ['Web Development', 'Frameworks'],
   },
   {
     title: 'React.JS',
     compentency: 3,
-    category: ['Web Development', 'Frameworks', 'Javascript'],
+    category: ['Web Development', 'Frameworks'],
   },
   {
     title: 'Heroku',
@@ -63,7 +60,7 @@ export const skills = [
   {
     title: 'Express.JS',
     compentency: 3,
-    category: ['Web Development', 'Frameworks', 'Javascript'],
+    category: ['Web Development', 'Frameworks'],
   },
   {
     title: 'Firebase',
@@ -93,7 +90,7 @@ export const skills = [
   {
     title: 'JQuery',
     compentency: 3,
-    category: ['Web Development', 'Javascript', 'Languages'],
+    category: ['Web Development', 'Languages'],
   },
   {
     title: 'Photoshop',
