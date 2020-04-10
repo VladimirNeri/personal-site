@@ -9,10 +9,7 @@ const courses = [
     link: 'https://www.udemy.com/certificate/UC-104fad21-b75a-4a38-a61d-d1f4b48208b9/',
     univerity: 'Udemy.com',
   },
-  {
-    title: 'Algorithms and Data Structures',  
-    univerity: 'Udemy.com',
-  },
+  
   {
     title: 'Advanced CSS and Sass: Flexbox, Grid, Animations and More!',
     link: 'https://www.udemy.com/certificate/UC-dfbbfb52-fb80-479c-9c2e-7639fe7cc21e/',
@@ -25,6 +22,10 @@ const courses = [
   },
   {
     title: 'NodeJs, Express, MongoDB and More',  
+    univerity: 'Udemy.com',
+  },
+  {
+    title: 'Algorithms and Data Structures',  
     univerity: 'Udemy.com',
   },
 ];
