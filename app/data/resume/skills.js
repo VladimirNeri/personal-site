@@ -4,7 +4,7 @@
 export const categories = [
  {
     name: 'Databases',
-    color: '#3896e2',
+    color: 'tan',
   }, {
     name: 'Design',
     color: '#747fff',
@@ -22,7 +22,7 @@ export const categories = [
     color: '#cc7b94',
   },{
     name: 'Other',
-    color: '#c3423f',
+    color: 'goldenrod',
   },
 ];
 
@@ -55,7 +55,7 @@ export const skills = [
   {
     title: 'Bootstrap',
     compentency: 3,
-    category: ['Web Development', 'Frameworks', 'Other'],
+    category: ['Tools'],
   },
   {
     title: 'Express.JS',
@@ -65,7 +65,7 @@ export const skills = [
   {
     title: 'Firebase',
     compentency: 3,
-    category: ['Web Development', 'Databases', 'Other'],
+    category: ['Other'],
   },
   {
     title: 'Git',
@@ -110,17 +110,17 @@ export const skills = [
   {
     title: 'Wordpress',
     compentency: 3,
-    category: ['Frameworks', 'Web Development'],
+    category: ['Other'],
   },
   {
     title: 'Handlebars',
     compentency: 3,
-    category: ['Web Development', 'Frameworks'],
+    category: ['Tools'],
   },
   {
     title: 'Shopify',
     compentency: 3,
-    category: ['Web Development', 'Frameworks'],
+    category: ['Other'],
   },
   {
     title: 'Illustrator',
