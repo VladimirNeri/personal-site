@@ -11,7 +11,7 @@
     "test": "./node_modules/mocha/bin/mocha --exit --require @babel/register ./test/test.js",
     "dev": "nodemon server/server.js --ignore app/ --ignore test/ --exec babel-node",
     "parse-routes": "node -r @babel/register parseRoutes.js",
-    "predeploy": "npm run build && cp -r public/* dist/ && cp dist/index.html dist/404.html && npm run parse-routes && cp CNAME dist/",
+    "predeploy": "npm run build && cp -r public/* dist/ && cp dist/index.html dist/404.html && npm run parse-routes",
     "deploy": "gh-pages -d dist"
   },
   "dependencies": {
@@ -43,8 +43,8 @@
     "dayjs": "^1.8.26",
     "dotenv": "^8.2.0",
     "express": "^4.17.1",
-    "file-loader": "^4.3.0",
-    "gh-pages": "^2.2.0",
+    "file-loader": "^4.2.0",
+    "gh-pages": "^2.1.1",
     "html-minify-loader": "^1.4.0",
     "html-webpack-plugin": "^3.2.0",
     "mini-css-extract-plugin": "^0.8.2",
@@ -76,7 +76,7 @@
     "webpack-hot-middleware": "^2.25.0"
   },
   "devDependencies": {
-    "babel-eslint": "^10.1.0",
+    "babel-eslint": "^10.0.2",
     "chai": "^4.2.0",
     "eslint": "^6.8.0",
     "eslint-config-airbnb": "^18.1.0",
