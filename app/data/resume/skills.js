@@ -2,7 +2,7 @@
 
 // TODO: Add Althetic Skills, Office Skills (?)
 export const categories = [
- {
+  {
     name: 'Databases',
     color: 'tan',
   }, {
@@ -14,7 +14,7 @@ export const categories = [
   }, {
     name: 'Languages',
     color: '#d75858',
-  },  {
+  }, {
     name: 'Tools',
     color: '#40494e',
   }, {
