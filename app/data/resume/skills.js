@@ -53,19 +53,9 @@ export const skills = [
     category: ['Web Development', 'Databases'],
   },
   {
-    title: 'Bootstrap',
-    compentency: 3,
-    category: ['Tools'],
-  },
-  {
     title: 'Express.JS',
     compentency: 3,
     category: ['Web Development', 'Frameworks'],
-  },
-  {
-    title: 'Firebase',
-    compentency: 3,
-    category: ['Other'],
   },
   {
     title: 'Git',
@@ -88,11 +78,6 @@ export const skills = [
     category: ['Web Development', 'Databases'],
   },
   {
-    title: 'JQuery',
-    compentency: 3,
-    category: ['Web Development', 'Languages'],
-  },
-  {
     title: 'Photoshop',
     compentency: 5,
     category: ['Design'],
@@ -108,16 +93,6 @@ export const skills = [
     category: ['Design'],
   },
   {
-    title: 'Wordpress',
-    compentency: 3,
-    category: ['Other'],
-  },
-  {
-    title: 'Handlebars',
-    compentency: 3,
-    category: ['Tools'],
-  },
-  {
     title: 'Shopify',
     compentency: 3,
     category: ['Other'],
@@ -131,11 +106,6 @@ export const skills = [
     title: 'XD',
     compentency: 3,
     category: ['Design'],
-  },
-  {
-    title: 'Dreamweaver',
-    compentency: 3,
-    category: ['Web Development', 'Design'],
   },
   {
     title: 'Premiere Pro',
