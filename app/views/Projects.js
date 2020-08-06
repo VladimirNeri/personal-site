@@ -17,7 +17,7 @@ const Projects = () => (
             <Link to="/projects">Projects</Link>
           </h2>
           <p>
-            I'll be updating this page soon. Here are some of my class projects.
+            Here are some of my current projects.  
           </p>
         </div>
       </header>
