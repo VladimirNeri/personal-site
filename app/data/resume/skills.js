@@ -20,7 +20,7 @@ export const categories = [
   }, {
     name: 'Web Development',
     color: '#cc7b94',
-  },{
+  }, {
     name: 'Other',
     color: 'goldenrod',
   },
@@ -39,8 +39,13 @@ export const skills = [
   },
   {
     title: 'React.JS',
-    compentency: 3,
+    compentency: 4,
     category: ['Web Development', 'Frameworks'],
+  },
+  {
+    title: 'React Native',
+    compentency: 3,
+    category: ['Frameworks'],
   },
   {
     title: 'Heroku',
@@ -49,6 +54,11 @@ export const skills = [
   },
   {
     title: 'MongoDB',
+    compentency: 3,
+    category: ['Web Development', 'Databases'],
+  },
+  {
+    title: 'Firebase',
     compentency: 3,
     category: ['Web Development', 'Databases'],
   },
@@ -83,19 +93,9 @@ export const skills = [
     category: ['Design'],
   },
   {
-    title: 'Lightroom',
-    compentency: 5,
-    category: ['Design'],
-  },
-  {
     title: 'InDesign',
     compentency: 3,
     category: ['Design'],
-  },
-  {
-    title: 'Shopify',
-    compentency: 3,
-    category: ['Other'],
   },
   {
     title: 'Illustrator',
@@ -116,10 +116,5 @@ export const skills = [
     title: 'SASS',
     compentency: 3,
     category: ['Frameworks'],
-  },
-  {
-    title: 'Gatsby.Js',
-    compentency: 3,
-    category: ['Frameworks', 'Web Development'],
   },
 ];
