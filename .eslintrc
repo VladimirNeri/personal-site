@@ -7,12 +7,12 @@
     "mocha": true
   },
   "globals": {
-    "BASE_PATH": "readable",
-    "GA_ID": "readable",
-    "NODE_ENV": "readable"
+    "BASE_PATH": "readonly",
+    "GA_ID": "readonly",
+    "NODE_ENV": "readonly"
   },
   "rules": {
-    "no-console": ["error", { allow: ["warn", "error", "info"] }],
+    "no-console": ["error", { "allow": ["warn", "error", "info"] }],
     "no-underscore-dangle": 0,
     "react/destructuring-assignment": 0,
     "react/jsx-one-expression-per-line": 0,
@@ -26,7 +26,7 @@
             "components": [ "Link" ],
             "specialLink": [ "to", "hrefLeft", "hrefRight" ],
             "aspects": [ "noHref", "invalidHref", "preferButton" ]
-          }],
+          }]
   },
   "plugins": [
     "mocha",
