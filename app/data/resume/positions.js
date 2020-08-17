@@ -18,8 +18,7 @@ const positions = [
     points: [
       'Own and operate professional photography business, acquiring and serving new clients regularly to maintain profitability.',
     ],
-  }, 
-  {
+  }, {
     company: 'City National Bank',
     position: 'Loan Administrator',
     link: 'https://www.cnb.com/',
@@ -30,7 +29,7 @@ const positions = [
       'Spearheaded analysis and evaluation of loan information in order to ensure accurate loan document preparation, while implementing decision-making actions to address any concerns.',
       'Managed department projects and assisted in training new staff in loan documentation, compliance and title review.',
     ],
-  }, 
+  },
 ];
 
 export default positions;
