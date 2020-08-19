@@ -3,7 +3,7 @@ const data = [
   {
     title: 'Elemental',
     subtitle: 'a Content Management System built with React',
-    link: 'https://github.com/VladimirNeri/Elemental',
+    link: 'https://vladimirneri.github.io/elemental/',
     image: '/images/projects/elemental.png',
     date: '2020-08',
     desc: 'Elemental is a content management system designed for artists and bloggers.'
