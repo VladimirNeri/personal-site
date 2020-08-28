@@ -29,12 +29,12 @@ export const categories = [
 export const skills = [
   {
     title: 'Javascript',
-    compentency: 3,
+    compentency: 4,
     category: ['Web Development', 'Languages'],
   },
   {
     title: 'Node.JS',
-    compentency: 3,
+    compentency: 4,
     category: ['Web Development', 'Frameworks'],
   },
   {
