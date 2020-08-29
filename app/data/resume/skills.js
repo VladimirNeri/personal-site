@@ -50,7 +50,7 @@ export const skills = [
   {
     title: 'Heroku',
     compentency: 4,
-    category: ['Tools'],
+    category: ['Other'],
   },
   {
     title: 'MongoDB',
@@ -70,7 +70,7 @@ export const skills = [
   {
     title: 'Git',
     compentency: 5,
-    category: ['Tools'],
+    category: ['Other'],
   },
   {
     title: 'HTML5',
@@ -116,5 +116,15 @@ export const skills = [
     title: 'SASS',
     compentency: 3,
     category: ['Frameworks'],
+  },
+  {
+    title: 'Webpack',
+    compentency: 3,
+    category: ['Tools'],
+  },
+  {
+    title: 'Babel',
+    compentency: 3,
+    category: ['Tools'],
   },
 ];
