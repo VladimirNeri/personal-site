@@ -1,8 +1,6 @@
 import React, { useState } from 'react';
 import { Link } from 'react-router-dom';
-
 import Menu from 'react-burger-menu/lib/menus/slide';
-
 import routes from '../../data/routes';
 
 const Hamburger = () => {
@@ -10,7 +8,7 @@ const Hamburger = () => {
 
   return (
     <div className="hamburger-container">
-      <nav className="main" id="hambuger-nav">
+      <nav className="main" id="hamburger-nav">
         <ul>
           {open ? (
             <li className="menu close-menu">

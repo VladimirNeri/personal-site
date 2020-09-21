@@ -12,7 +12,7 @@ if (NODE_ENV === 'production') {
 }
 
 class Main extends Component {
-  componentWillMount() {
+  UNSAFE_componentWillMount() {
     window.scrollTo(0, 0);
   }
 

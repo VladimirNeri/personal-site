@@ -119,12 +119,17 @@ export const skills = [
   },
   {
     title: 'Webpack',
-    compentency: 3,
-    category: ['Tools'],
+    compentency: 4,
+    category: ['Tools', 'Web Development'],
   },
   {
     title: 'Babel',
-    compentency: 3,
-    category: ['Tools'],
+    compentency: 4,
+    category: ['Tools', 'Web Development'],
+  },
+  {
+    title: 'Postman',
+    compentency: 4,
+    category: ['Tools', 'Web Development'],
   },
 ];
