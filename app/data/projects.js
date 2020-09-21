@@ -6,7 +6,7 @@ const data = [
     link: 'https://vladimirneri.github.io/elemental/',
     image: '/images/projects/elemental.png',
     date: '2020-08',
-    desc: 'Elemental is a subscription website with an online gate.  Only those who subscribe can cross the gate and access the content.'
+    desc: 'Elemental is the demo of a subscription website built with React.  Only those who subscribe can access the content.'
       + ' The content is accessible to users once they subscribe and login with their account information.',
   },
 ];
