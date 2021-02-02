@@ -3,7 +3,7 @@ const data = [
   {
     title: 'Mainboard',
     subtitle: 'a full-stack application build with React',
-    link: 'https://arcane-temple-04163.herokuapp.com/',
+    link: 'https://blooming-brook-89263.herokuapp.com/',
     image: '/images/projects/mainboard.png',
     date: '2020-11',
     desc: 'Mainboard is a talent management application built with React.  This application helps agents organize'
