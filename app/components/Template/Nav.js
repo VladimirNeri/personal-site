@@ -17,7 +17,7 @@ const Nav = () => (
 
     <section className="blurb">
       <h2>About</h2>
-      <p>Hi, I&apos;m Vlad Neri. I’m a Web Developer from Santa Monica, CA.  I recently graduated from UCLA Web Development Bootcamp and have a background in 
+      <p>Hi, I&apos;m Vlad Neri. I’m a Full Stack Developer from Santa Monica, CA.  I recently graduated from UCLA Web Development Bootcamp and have a background in 
       corporate banking and management.  Before my journey in web development I held positions at City National Bank and Keller Williams Realty.  
       I am also an avid freelance photographer.  
       </p>

@@ -85,7 +85,7 @@ const Contact = () => {
           </div>
         </header>
         <div className="email-at">
-          <p>Feel free to get in touch. You can email me at: </p>
+          <p>I am currently looking for new opportunities in Web Development.  Please get in touch if you would like to work together! You can email me at: </p>
           <div
             className="inline-container"
             style={validateText(message) ? {} : { color: "red" }}
