@@ -7,7 +7,7 @@ Attracted by the use of creativity and technology, I entered the world of tech t
 <br><br>
 #### Some tools I've used
 
-HTML5, CSS3, Javascript, JQuery, Bootstrap, Firebase, NodeJs, MySQL, MongoDB, Express, Handelbars & ReactJS.
+React, CSS, NodeJs, Express, MongoDb, MySql and much more.  
 <br><br>
 #### Currently 
 Looking to start at a company to continue my journey as a full-time Web Developer.  I'm currently earning additional certifications in Javascript, CSS, Node and React to enhance a deeper understanding of these technologies.  

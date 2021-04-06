@@ -17,11 +17,11 @@ const Projects = () => (
             <Link to="/projects">Projects</Link>
           </h2>
           <p>
-            Here are some of my current projects.  
+            Here are some of my current projects.
           </p>
         </div>
       </header>
-      {data.map(project => (
+      {data.map((project) => (
         <Cell data={project} key={project.title} />
       ))}
     </article>
