@@ -1,6 +1,15 @@
 // TODO Add a couple lines about each project
 const data = [
   {
+    title: 'Cryptotracker',
+    subtitle: 'an information hub for all things Crypto',
+    link: 'https://fathomless-hamlet-20672.herokuapp.com/',
+    image: '/images/projects/cryptotracker.png',
+    date: '2021-01',
+    desc: 'Cryptotracker is an infomation hub for Cryptocurrencies.  HTTP requests are made via Axios from the Coingecko API.'
+      + ' Users can view detailed information about the cryptocurrencies. ',
+  },
+  {
     title: 'Mainboard',
     subtitle: 'a full-stack application build with React',
     link: 'https://blooming-brook-89263.herokuapp.com/',
