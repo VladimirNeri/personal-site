@@ -2,7 +2,7 @@
 const positions = [
   {
     company: 'Self-Employed',
-    position: 'Software Developer',
+    position: 'Web Developer',
     daterange: 'October 2019 - Present',
     points: [
     ],
