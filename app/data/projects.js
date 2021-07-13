@@ -10,15 +10,6 @@ const data = [
       + ' Users can view detailed information about the cryptocurrencies. ',
   },
   {
-    title: 'Mainboard',
-    subtitle: 'a full-stack application build with React',
-    link: 'https://blooming-brook-89263.herokuapp.com/',
-    image: '/images/projects/mainboard.png',
-    date: '2020-11',
-    desc: 'Mainboard is a talent management application built with React.  This application helps agents organize'
-      + ' their talent\'s booking, portfolio, scouting, and casting schedule.',
-  },
-  {
     title: 'Elemental',
     subtitle: 'a Subscription website built with React',
     link: 'https://young-retreat-41159.herokuapp.com/',
