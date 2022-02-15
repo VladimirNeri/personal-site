@@ -16,15 +16,7 @@ const validateText = text => {
 };
 
 const messages = [
-  "info",
-  "hello",
-  "wassup",
-  "hola",
-  "bonjour",
-  "hallo",
-  "hej",
-  "kamusta",
-  "yeoboseyo"
+  "vlad.neri",
 ];
 
 const useInterval = (callback, delay) => {
@@ -85,7 +77,7 @@ const Contact = () => {
           </div>
         </header>
         <div className="email-at">
-          <p>I am currently looking for new opportunities in Web Development.  Please get in touch if you would like to work together! You can email me at: </p>
+          <p>I'm available for most Front-End and Full Stack roles.  Please get in touch if you would like to work together. You can email me at: </p>
           <div
             className="inline-container"
             style={validateText(message) ? {} : { color: "red" }}
@@ -93,10 +85,10 @@ const Contact = () => {
             onMouseLeave={() => idx < messages.length && setIsActive(true)}
           >
             <a
-              href={validateText(message) ? `mailto:info@vladimirneri.com` : ""}
+              href={validateText(message) ? `mailto:vlad.neri@gmail.com` : ""}
             >
               <span>{message}</span>
-              <span>@vladimirneri.com</span>
+              <span>@gmail.com</span>
             </a>
           </div>
         </div>
