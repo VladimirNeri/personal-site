@@ -23,7 +23,7 @@ const data = [
     icon: faInstagram,
   },
   {
-    link: 'mailto:info@vladimirneri.com',
+    link: 'mailto:vlad.neri@gmail.com',
     label: 'Email',
     icon: faEnvelope,
   },
