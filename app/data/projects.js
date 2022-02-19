@@ -1,6 +1,15 @@
 // TODO Add a couple lines about each project
 const data = [
   {
+    title: 'Spoonacular',
+    subtitle: 'a Recipe Search app',
+    link: 'https://spoonacular-api-app.herokuapp.com/',
+    image: '/images/projects/spoonacular.png',
+    date: '2022-01',
+    desc: 'Spoonacular is a food recipe website that contains data of  recipes, ingredients, '
+      + ' and menu items. The data can be accessed from Spoonacular API, which is open to the public. ',
+  },
+  {
     title: 'Cryptotracker',
     subtitle: 'an information hub for all things Crypto',
     link: 'https://fathomless-hamlet-20672.herokuapp.com/',
